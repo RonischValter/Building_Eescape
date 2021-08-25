@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Building_Eescape-3336.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\Building_EescapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\Building_Eescape.cpp.obj"
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\WorldPossition.cpp.obj"
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\Building_Eescape.init.gen.cpp.obj"
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\WorldPossition.gen.cpp.obj"
+"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\Default.rc2.res"
+/OUT:"D:\Users\Valda\Documents\Unreal Projects\Building_Eescape\Intermediate\Build\Win64\UE4Editor\Development\Building_Eescape\UE4Editor-Building_Eescape-3336.lib"
+/INCLUDE:IMPLEMENT_MODULE_Building_Eescape

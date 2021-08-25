@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Building_Eescape",
+			"Path": "D:\\Users\\Valda\\Documents\\Unreal Projects\\Building_Eescape\\Source\\Building_Eescape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Building_EescapeEditor",
+			"Path": "D:\\Users\\Valda\\Documents\\Unreal Projects\\Building_Eescape\\Source\\Building_EescapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
